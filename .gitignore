@@ -1,0 +1,13 @@
+foto_backend/__pycache__/
+foto_backend/*.py[cod]
+foto_backend/venv/
+foto_backend/.venv/
+foto_backend/.env
+foto_frontend/.dart_tool/
+foto_frontend/.flutter-plugins
+foto_frontend/.flutter-plugins-dependencies
+foto_frontend/build/
+foto_frontend/.vscode/
+.vscode/
+.DS_Store
+Thumbs.db
